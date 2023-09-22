@@ -1,1 +1,1 @@
-cseed site
+cseed site, inspired by hackthenorth
